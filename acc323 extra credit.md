@@ -1,5 +1,5 @@
 ### ACC323 Extra Credit US GAAP Interview 
-Jacie Sakaino | Seat 34G
+Jacie Sakaino | Seat 34G 
 
 Date of Interview: 04/30/2026
 - Name of Interviewee: Dane Maehara
