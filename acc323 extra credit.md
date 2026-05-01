@@ -23,6 +23,8 @@ Q3: What happens to a company's earnings per share when it buys back its own sto
 
 A3: Buybacks increase EPS because there are less shares outstanding. This makes EPS larger and makes the company seem more profitable, which looks good on the executives of the company. However, this is somewhat "old" thinking.
 
+---
+
 Q4: For a company that grants restricted stock awards to executives, how is the total compensation figured out, and how does it get spread across the financial statements over the vesting period?
 
 
