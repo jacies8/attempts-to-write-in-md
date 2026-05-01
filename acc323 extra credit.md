@@ -71,7 +71,7 @@ A10: Shareholders equity stays the same, but the mix is different. This is becau
 I had a great experience with the interview process. During the interview, I got to sit down in-person at his office and ask my questions that I prepared. We even got a drink at Starbucks. I noticed that he was very well educated on the topics I asked him about. After asking him my prepared questions, I learned more about his job in general. However, he did tell me that my questions I prepared were a bit difficult, and someone like a first-year may not have been able to answer the questions on the top of their heads. He said the questions I asked were pretty relevant, and he sees a lot of the topics I gave him on the financial statements he deals with.
 
 
-#### What I learned during the interview that was the most surprising or interesting 
+#### What I learned during the interview that was the most surprising or interesting -
 
 I think what I learned that was most interesting was about how companies hold investments almost always as available for sale. I guess that does make the most sense logically, but I never thought that there would be an obvious preference. It seems that companies like having the flexibility and ability to liquify investments available for sale. Investments that are held to maturity aren't as liquid, and maybe not as useful to different companies.
 
